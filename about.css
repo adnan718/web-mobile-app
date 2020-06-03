@@ -1,0 +1,129 @@
+.navbar {
+    background-color:  #6f3260 !important;
+}
+.nav-link {
+    color: #ffffff !important;
+    font-weight: bold !important;
+}
+:hover.nav-item {
+    background-color: #6f3299 !important;
+}
+.fa-cutlery, .fa-user-circle-o {
+    font-size: 30px !important;
+    color: white;
+    padding-left: 15px;
+}
+
+
+
+
+.Cards {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.fa-shopping-cart,.fa-phone-square,.fa-thumbs-o-up{
+    font-size: 45px !important;
+    margin-right: 10px;
+    color: #6f3260;
+}
+
+.newArrivals {
+    margin-top: 50px;
+}
+.card{
+    width: 250px;
+    height: auto;
+    margin-bottom: 5px;
+}
+.card-text {
+    font-weight: bold;
+}
+.btn-primary{
+    width: 100%;
+    background-color: #6f3299 ;
+}
+.halwa-puri{
+    height: 140px;
+}
+.PINAPPLE {
+    height: 140px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .card1,.card2,.card3{
+        width: 100%;
+    }
+  }
+  
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color: #6f3260;
+    margin: 20px;
+    font-size: 40px;
+    margin: 20px;
+}
+.heading>h1{
+    text-shadow: 2px 4px 4px greenyellow;
+}
+.bir1,.bir2,.bir3,.bir4 {
+    height: 140px;
+}
+.Karhai1,.Karhai2,.Karhai3,.Karhai4{
+    height: 140px;
+
+}
+
+#footer1{
+    background-color: white;
+}
+#footer2{
+    background-color:black;
+}
+#fontclr{
+    color: white;
+}
+#footeri{
+    color: #427900;
+}
+.borderbottom{
+    border-bottom-style: solid;
+    color: #427900;
+}
+
+#cwui{
+    background-color:#316DC3;
+    color: white;
+    
+}
+#copyright{
+    background-color: #6f3260;
+    color: #fff;
+}
+.ftfont{
+    position: relative;
+    left: 20px;
+    top: -10px;
+    font-size: 13px;
+}
+.hello{
+    justify-content: center;
+    width: 100px;
+}
+.ceo{
+    text-align: center;
+    font-size: 25px !important;
+}
+.ceo{
+    text-shadow: chocolate;
+    text-align: center;
+    
+
+    font-size: 40px !important;
+    text-shadow: 2px 4px 4px greenyellow;
+}
+
